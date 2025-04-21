@@ -7,4 +7,4 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
 
         print("uma nova cena")
-        
+        print("new")
